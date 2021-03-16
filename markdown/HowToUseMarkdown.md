@@ -65,9 +65,11 @@ system.out.println("마크다운 문서 최고인데?")
 
 * 가능하다면 아래와 같이 typora 설정을 하여 상대경로로 이미지 관리
 
-![img](../img.png)
+  ![setting](markdown_image/setting.png)
 
-![gdgdd](../gdgdd.jpg)
+![richmonkey](markdown_image/richmonkey.jpg)
+
+
 
 
 
