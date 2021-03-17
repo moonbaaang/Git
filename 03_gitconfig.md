@@ -1,4 +1,6 @@
-# git config - author
+# git config
+
+## author
 
 * 커밋을 남기는 사람에 대한 정보(이메일, 이름)을 설정한다.
 
@@ -17,6 +19,6 @@ user.name=moonbaaang
     * 윈도우 - 자격 증명 관리자
     * 공용 계정에서는 자격 관리가 필수이다.
 
-![자격증명](markdown_image/%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85.JPG)
+![자격증명](03_gitconfig/%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85.JPG)
 
 * 맥 - 키체인접근

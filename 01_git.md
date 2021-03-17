@@ -13,6 +13,8 @@ Initialized empty git repository in C:/Users/student/Desktop/정리/.git
 
 * `.git` 폴더가 생성되고, 여기에 git과 관련된 모든 정보들이 저장된다.
 
+</br>
+
 ## 기본 작업 흐름
 
 모든 작업은 `touch`명령어를 통해서 파일을 만드는 것으로 대체한다.
@@ -67,7 +69,7 @@ Changes to be committed:
         new file:   new.txt
 ```
 
-
+</br>
 
 ## 2. `Commit`
 

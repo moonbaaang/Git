@@ -1,14 +1,12 @@
 # 원격저장소 기초 활용
 
-## 준비
+* Github에 비어있는 저장소(Repository)를 만든다.
 
-* github에 비어있는 저장소(repository)를 만든다.
-
-
+</br>
 
 ## 기본 명령어
 
-### 원격저장소 설정
+### 원격저장소(Remote Repository) 설정
 
 ```bash
 $ git remote add origin __url__
@@ -34,7 +32,9 @@ origin  https://github.com/moonbaang/first.git (fetch)
 origin  https://github.com/moonbaang/first.git (push)
 ```
 
-## `push`
+</br>
+
+## push
 
 ```bash
 $ git push origin master
