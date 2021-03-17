@@ -152,7 +152,7 @@ Merge made by the 'recursive' strategy.
 
   * ex) vs code
 
-  ![image-20210317142955759](../image/image-20210317142955759-1615998710411.png)
+  ![image-20210317142955759](image/image-20210317142955759.png)
 
 * 위와같이 vim 편집기 같은 경우 자동으로 작성된 커밋 메시지를 확인하고, `esc`를 누른 후 `:wq`를 입력하여 저장 및 종료한다.
 
@@ -181,7 +181,7 @@ $ git branch -d feature/ppt
 Deleted branch feature/ppt (was 0ff83d1).
 ```
 
-![Inkedblank_LI](../image/Inkedblank_LI-1615998697730.jpg)
+![Inkedblank_LI](image/Inkedblank_LI.jpg)
 
 ---
 
@@ -292,12 +292,12 @@ Unmerged paths:
 
 * README.md 파일을 열어본다.
 
-![confilctimage](../image/confilctimage.PNG)
+![confilctimage](image/confilctimage.PNG)
 
 * 다음과 같이 내용이 충돌된 모습이 나타난다.
 * 이때 자신이 원하는 내용만 직접 수정하여 간추려 나타내면 된다.
 
-![confilctimage2](../image/confilctimage2.PNG)
+![confilctimage2](image/confilctimage2.PNG)
 
 ##### 8. merge commit을 진행한다.
 
