@@ -16,5 +16,5 @@ secret_folder/ # 특정 폴더
 
     * 위의 사이트에서 내 환경을 입력하여 우선 적용을 해보고, 차차 원하는 파일들을 골라본다.
 
-      ![gitignoreio](../image/gitignoreio-1615999762465.JPG)
+      ![gitignoreio](image/gitignoreio.JPG)
 

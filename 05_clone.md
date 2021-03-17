@@ -6,7 +6,7 @@
 
 * Github의 파일을 받아올 수 있다.
 
-![gitclone](../image/gitclone.JPG)
+![gitclone](image/gitclone-1616000086362.JPG)
 
 * 단, .git 디렉토리가 존재하지 않아 이전 버전의 내용을 확인할 수 없다.
   * 분산버전 컨트롤 시스템의 핵심!
