@@ -22,7 +22,7 @@ $ git remote add origin https://github.com/moonbaaang/first.git
 
   * 아래는 참고사진으로 위의 내용과 동일하진 않다.
 
-  ![info](markdown_image/info.JPG)
+  ![info](../image/info.JPG)
   
 * 설정한 원격저장소를 확인하기 위해서는 아래의 명령어를 활용한다.
 
